@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+  }
+  
+  .card-list {
+    max-width: 100%;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+  }
+  
+  .header-card-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  
